@@ -9,7 +9,7 @@ install:
 3. Create new self certificate by open this "C:\Program Files\Microsoft Office\Office16\SELFCERT.EXE"
 4. Run certmgr (win+r) and find in personal your created certificate on 3 step
 5. Open your certificate, export it and install to "root" and "trustedpublisher"
-6. Open Outlook, open Visual Basic Editor and sign macro with your new certificate (Tools -> Digital Signature -> select your)
+6. in Visual Basic Editor sign macro with your new certificate (Tools -> Digital Signature -> select your)
 7. *IMPORTANT* create a new directory %USERPROFILE%\OutlookAttachments (macro need this directory to save attachments, don't worry macro delete attachments after reply message)
 
 P.S.
