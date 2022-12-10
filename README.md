@@ -10,4 +10,5 @@ install:
 6. Open Outlook, open Visual Basic Editor and sign macro with your new certificate (Tools -> Digital Signature -> select your)
 
 
-<img width="1057" alt="Снимок экрана 2022-12-11 в 02 42 42" src="https://user-images.githubusercontent.com/100531769/206876949-b9898b0c-0199-42ce-81e5-c540e72afb80.png">
+<img width="844" alt="image" src="https://user-images.githubusercontent.com/100531769/206876973-19a27600-94ff-4d9d-923d-7f5e56d36144.png">
+
